@@ -7,7 +7,8 @@ export default class App extends Component {
         return (
             <div>
                 App
-                <Button type='primary'>222</Button>
+                <Button type='primary'>555</Button>
+                <Button type='primary'>444</Button>
             </div>
         )
     }
